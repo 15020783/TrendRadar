@@ -4,48 +4,17 @@ A股
 +涨跌
 !预测
 
-DeepSeek
-梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-新能源
-光伏
-
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
+海峡两岸
+海峡股份
 
 特斯拉
 马斯克
 
 微软
 Microsoft
-
 英伟达
 NVIDIA
-黄仁勋
-
 AMD
-
-谷歌
-google
-gemini
-deepmind
 
 chatgpt
 openai
@@ -54,41 +23,34 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
+白酒
+煤炭
+银行
++走势
 
 ai
 !gai
 人工智能
-
-自动驾驶
-
-机器人
-
-国产
-中国
+DeepSeek
 
 美国
 日本
 韩国
++中国
 
 芯片
 光刻机
+半导体
 
 科技
+机器人
 
 核能
-
 水电站
-雅鲁藏布江
-
-新质生产力
+新能源
+光伏
 
 月球
 登月
 火星
-宇宙
-飞船
-航空
+卫星
